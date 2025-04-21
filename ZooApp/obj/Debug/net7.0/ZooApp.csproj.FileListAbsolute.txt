@@ -1,0 +1,4 @@
+/Users/danilanest/Projects/ZooApp/ZooApp/obj/Debug/net7.0/ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilanest/Projects/ZooApp/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfoInputs.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfo.cs
+/Users/danilanest/Projects/ZooApp/ZooApp/obj/Debug/net7.0/ZooApp.csproj.CoreCompileInputs.cache

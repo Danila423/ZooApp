@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="src\" />
+    <None Remove="src\Application\" />
+    <None Remove="src\Domain\" />
+    <None Remove="src\Infrastructure\" />
+    <None Remove="src\Presentation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="src\" />
+    <Folder Include="src\Application\" />
+    <Folder Include="src\Domain\" />
+    <Folder Include="src\Infrastructure\" />
+    <Folder Include="src\Presentation\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{87806A17-BC08-4671-8EE8-2F410381227A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooApp/src/Infrastructure/InMemory/FeedingScheduleRepository.cs">
+    <Files>
+      <File FileName="ZooApp/Program.cs" Line="18" Column="1" />
+      <File FileName="ZooApp/src/Application/Entities/Animal.cs" Line="3" Column="3" />
+      <File FileName="ZooApp/src/Application/Entities/Enclosure.cs" Line="3" Column="3" />
+      <File FileName="ZooApp/src/Application/Entities/FeedingSchedule.cs" Line="3" Column="3" />
+      <File FileName="ZooApp/src/Application/Events/AnimalMovedEvent.cs" Line="7" Column="1" />
+      <File FileName="ZooApp/src/Application/Events/FeedingTimeEvent.cs" Line="7" Column="1" />
+      <File FileName="ZooApp/src/Application/ValueObjects/Species.cs" Line="5" Column="1" />
+      <File FileName="ZooApp/src/Application/ValueObjects/Sex.cs" Line="5" Column="1" />
+      <File FileName="ZooApp/src/Application/ValueObjects/FoodType.cs" Line="5" Column="1" />
+      <File FileName="ZooApp/src/Application/ValueObjects/EnclosureType.cs" Line="5" Column="1" />
+      <File FileName="ZooApp/src/Application/Repositories/IAnimalRepository.cs" Line="15" Column="1" />
+      <File FileName="ZooApp/src/Application/Repositories/IEnclosureRepository.cs" Line="15" Column="1" />
+      <File FileName="ZooApp/src/Application/Repositories/IFeedingScheduleRepository.cs" Line="15" Column="1" />
+      <File FileName="ZooApp/src/Domain/Interfaces/IAnimalTransferService.cs" Line="10" Column="1" />
+      <File FileName="ZooApp/src/Domain/Interfaces/IFeedingOrganizationService.cs" Line="11" Column="1" />
+      <File FileName="ZooApp/src/Domain/Interfaces/IZooStatisticsService.cs" Line="9" Column="1" />
+      <File FileName="ZooApp/src/Domain/Services/AnimalTransferService.cs" Line="6" Column="3" />
+      <File FileName="ZooApp/src/Domain/Services/FeedingOrganizationService.cs" Line="8" Column="3" />
+      <File FileName="ZooApp/src/Domain/Services/ZooStatisticsService.cs" Line="22" Column="1" />
+      <File FileName="ZooApp/src/Infrastructure/InMemory/AnimalRepository.cs" Line="19" Column="1" />
+      <File FileName="ZooApp/src/Infrastructure/InMemory/EnclosureRepository.cs" Line="19" Column="1" />
+      <File FileName="ZooApp/src/Infrastructure/InMemory/FeedingScheduleRepository.cs" Line="19" Column="1" />
+      <File FileName="ZooApp/src/Infrastructure/Messaging/InMemoryMessageBus.cs" Line="13" Column="1" />
+      <File FileName="ZooApp/src/Presentation/WebApi/Controllers/AnimalsController.cs" Line="53" Column="1" />
+      <File FileName="ZooApp/src/Presentation/WebApi/Controllers/EnclosuresController.cs" Line="38" Column="1" />
+      <File FileName="ZooApp/src/Presentation/WebApi/Controllers/FeedingSchedulesController.cs" Line="43" Column="10" />
+      <File FileName="ZooApp/src/Presentation/WebApi/Startup.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZooApp" expanded="True">
+            <Node name="ZooApp" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="Presentation" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ZooApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ZooApp.src.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ZooApp.src.Presentation.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

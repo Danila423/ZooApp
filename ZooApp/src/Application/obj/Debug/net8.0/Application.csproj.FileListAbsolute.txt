@@ -1,0 +1,17 @@
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Application.deps.json
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Application.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Application.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Domain.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Infrastructure.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Domain.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/bin/Debug/net8.0/Infrastructure.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/Application.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Application/obj/Debug/net8.0/ref/Application.dll

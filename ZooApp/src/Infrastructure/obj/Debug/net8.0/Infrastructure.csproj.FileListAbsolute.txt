@@ -1,0 +1,15 @@
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/danilanest/Projects/ZooApp/ZooApp/src/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
